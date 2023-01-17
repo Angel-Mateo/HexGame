@@ -1565,7 +1565,7 @@ namespace Graph{
             swap_rule(swap_rule){
                 cout<<"Welcome to Hex game!"<<endl;
                 cout<<"====================\n"<<endl;
-                cout<<"You will be playing on a "<<border_length<<" x "<<border_length<<" table."<<endl;
+                cout<<"You will be playing on a "<<border_length<<" x "<<border_length<<" board."<<endl;
                 cout<<"Game options are set as follow:\n";
                 cout<<">> You are PLAYER 1 and your opponent is player 2."<<endl;
                 cout<<"   Your symbol is 'X' (up/down). Your opponent is 'O' (left/right)"<<endl;
@@ -1588,7 +1588,7 @@ namespace Graph{
                 for(int i=0; i<100; ++i){cout<<endl;} // clearing the screen
                 cout<<"Welcome to Hex game!"<<endl;
                 cout<<"====================\n"<<endl;
-                cout<<"You will be playing on a "<<border_length<<" x "<<border_length<<" table."<<endl;
+                cout<<"You will be playing on a "<<border_length<<" x "<<border_length<<" board."<<endl;
                 cout<<"Now set some options:\n"<<endl;
                 cout<<"You are PLAYER 1 and your opponent is player 2."<<endl;
                 cout<<"Your symbol is 'X' (up/down). Your opponent is 'O' (left/right)"<<endl;
